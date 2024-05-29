@@ -12,7 +12,7 @@ Heimdal Security A/S, we have a feature that uses the iPXE firmware in order to 
 
 *******************************************************************************
 
-This shim will be used to load [iPXE](https://github.com/ipxe/ipxe).
+This shim will be used to load [iPXE](https://github.com/ipxe/ipxe) with [wimboot](https://github.com/ipxe/wimboot).
 
 *******************************************************************************
 
@@ -405,5 +405,3 @@ Not applicable: this shim will not be used to load a Linux kernel.
 ### Add any additional information you think we may need to validate this shim signing application.
 
 *******************************************************************************
-
--
